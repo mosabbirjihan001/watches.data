@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Seiko 5 Sports",
+    "price": 250
+  },
+  {
+    "id": 2,
+    "name": "Apple Watch Series 90876",
+    "price": 399
+  },
+  {
+    "id": 3,
+    "name": "Casio G-Shock GA-2100111111",
+    "price": 110
+  },
+  {
+    "id": 4,
+    "name": "Rolex Submariner",
+    "price": 85000000
+  },
+  {
+    "id": 5,
+    "name": "Garmin Forerunner 965111",
+    "price": 600
+  }
+]
